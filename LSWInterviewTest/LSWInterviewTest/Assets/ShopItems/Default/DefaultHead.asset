@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: a8e82f4ff7dca1b44b6f6d8a8ef4fb1a, type: 3}
+  m_Name: DefaultHead
+  m_EditorClassIdentifier: 
+  itemImage: {fileID: -7753673269030977746, guid: a87c50a18859a8043a6b8b9a4ee2fcfc, type: 3}
+  gameImage: {fileID: -5156993582514690110, guid: ad1558d185fa6c443a25a1bcd9cebe0b, type: 3}
+  animatorController: {fileID: 9100000, guid: 25f653ee07e261142af8d90b1445431c, type: 2}
+  cost: 100
+  purchased: 1
+  Head: 1
+  Torso: 0
+  Leg: 0
+  isDefaultItem: 1
+  equiped: 1

@@ -1,0 +1,62 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &4637344374702165619
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 4637344374702165618}
+  - component: {fileID: 4637344374702165613}
+  m_Layer: 0
+  m_Name: GameManager
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &4637344374702165618
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4637344374702165619}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &4637344374702165613
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4637344374702165619}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 2a34ef40a8934ac48b43a7ebce4a5e1c, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  playerName: 
+  playerMoney: 0
+  items:
+  - {fileID: 11400000, guid: 5902e1c853c72854595be39663cc57f1, type: 2}
+  - {fileID: 11400000, guid: 00566d02b91dd1c4ba173c6efd3b54d0, type: 2}
+  - {fileID: 11400000, guid: bb4aa4a414c0f084888842136e606900, type: 2}
+  - {fileID: 11400000, guid: 386daea79f927944797b6e53bf06f1cb, type: 2}
+  - {fileID: 11400000, guid: 28ef9cee722b1864a9c75e3772abbee6, type: 2}
+  - {fileID: 11400000, guid: 3e708e67c2989d94abea8ec088e97bdf, type: 2}
+  - {fileID: 11400000, guid: f689220640d84504faadcfcac2afff48, type: 2}
+  - {fileID: 11400000, guid: c55014876fda8d746a18a7affe37ea8a, type: 2}
+  playerItems: []
+  itemsPurchasableInfo: {fileID: 4900000, guid: 826b77f0d99a48d4e9eb54aa91d7be34, type: 3}
+  purchasedItems: {fileID: 4900000, guid: 5ccaa2e16cd4f0b43bca31bc231aae31, type: 3}
+  playerData: {fileID: 4900000, guid: bfa72ee10bcc8a840a4f5bf8eafd1b17, type: 3}
+  inventory: {fileID: 3265634701356859072, guid: bcfda09358d4daa409ad887d781efa8f, type: 3}
+  player: {fileID: 0}

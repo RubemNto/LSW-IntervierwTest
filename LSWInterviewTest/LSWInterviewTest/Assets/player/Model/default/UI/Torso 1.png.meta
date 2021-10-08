@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: cbc95476c40efa544b66b72a0e79a05c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7262119653502517537
+    second: Torso_0
+  - first:
+      213: 5300818424534992302
+    second: Torso_1
+  - first:
+      213: 7123839797453542464
+    second: Torso_2
+  - first:
+      213: -6743801378801902322
+    second: Torso_3
+  - first:
+      213: 6917768309481022055
+    second: Torso_4
+  - first:
+      213: 6643906430839898003
+    second: Torso_5
+  - first:
+      213: -1775316500903965178
+    second: Torso_6
+  - first:
+      213: 8766012447733897898
+    second: Torso_7
+  - first:
+      213: 8150251570433719677
+    second: Torso_8
+  - first:
+      213: -8896237677394181756
+    second: Torso_9
+  - first:
+      213: 2016047330206278986
+    second: Torso_10
+  - first:
+      213: -4864920315717396304
+    second: Torso_11
+  - first:
+      213: 3032436646355848401
+    second: Torso_12
+  - first:
+      213: 615594913194778529
+    second: Torso_13
+  - first:
+      213: -4756654282491141705
+    second: Torso_14
+  - first:
+      213: 1831975971078066096
+    second: Torso_15
+  - first:
+      213: -5462530776727044787
+    second: Torso 1_0
+  - first:
+      213: 9083309449838570495
+    second: Torso 1_1
+  - first:
+      213: 2876482096998459610
+    second: Torso 1_2
+  - first:
+      213: 5486818240394381097
+    second: Torso 1_3
+  - first:
+      213: 7141830359793540615
+    second: Torso 1_4
+  - first:
+      213: -8463091008849072302
+    second: Torso 1_5
+  - first:
+      213: -8416601380340073488
+    second: Torso 1_6
+  - first:
+      213: -1904200806362259430
+    second: Torso 1_7
+  - first:
+      213: -5333331917030054307
+    second: Torso 1_8
+  - first:
+      213: 984289179415871361
+    second: Torso 1_9
+  - first:
+      213: -2648145521405831935
+    second: Torso 1_10
+  - first:
+      213: -4851241677084087057
+    second: Torso 1_11
+  - first:
+      213: 6661330857800978902
+    second: Torso 1_12
+  - first:
+      213: -4074213012714700338
+    second: Torso 1_13
+  - first:
+      213: -3009124898192430198
+    second: Torso 1_14
+  - first:
+      213: 36803853559353878
+    second: Torso 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Torso 1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 203
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4dbb8643313134b0800000000000000
+      internalID: -5462530776727044787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 202
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffba396b1d56e0e70800000000000000
+      internalID: 9083309449838570495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 203
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad82d5a1a315be720800000000000000
+      internalID: 2876482096998459610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 202
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92747d58e18152c40800000000000000
+      internalID: 5486818240394381097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 138
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70e18998fd0ec1360800000000000000
+      internalID: 7141830359793540615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25fafbb119f0d8a80800000000000000
+      internalID: -8463091008849072302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 138
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fb74cc33a9323b80800000000000000
+      internalID: -8416601380340073488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a10e3cb947be295e0800000000000000
+      internalID: -1904200806362259430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d56ab20f0e23cf5b0800000000000000
+      internalID: -5333331917030054307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 73
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ff75f2bc5e8ad00800000000000000
+      internalID: 984289179415871361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 11
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1055013cda5ef3bd0800000000000000
+      internalID: -2648145521405831935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec25ddc56decacb0800000000000000
+      internalID: -4851241677084087057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d153963f1dc17c50800000000000000
+      internalID: 6661330857800978902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec1cdddd9dc7577c0800000000000000
+      internalID: -4074213012714700338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 11
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8be47e19d07d36d0800000000000000
+      internalID: -3009124898192430198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Torso 1_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61255c9e8e0c28000800000000000000
+      internalID: 36803853559353878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

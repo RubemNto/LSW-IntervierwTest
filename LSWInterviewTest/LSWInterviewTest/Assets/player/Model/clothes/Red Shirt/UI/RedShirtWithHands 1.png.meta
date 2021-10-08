@@ -1,0 +1,552 @@
+fileFormatVersion: 2
+guid: 5931051ab3c92134bbf0490429040cfe
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -188174447582732502
+    second: RedShirtWithHands_0
+  - first:
+      213: 2712116281240399810
+    second: RedShirtWithHands_1
+  - first:
+      213: -8156128489788259211
+    second: RedShirtWithHands_2
+  - first:
+      213: -3660841443449356423
+    second: RedShirtWithHands_3
+  - first:
+      213: 1407725556953535943
+    second: RedShirtWithHands_4
+  - first:
+      213: 5260629813402631685
+    second: RedShirtWithHands_5
+  - first:
+      213: -2226594213528628977
+    second: RedShirtWithHands_6
+  - first:
+      213: 3721280729032436971
+    second: RedShirtWithHands_7
+  - first:
+      213: 7417067191209237789
+    second: RedShirtWithHands_8
+  - first:
+      213: -7328403514785389972
+    second: RedShirtWithHands_9
+  - first:
+      213: 6154667109972714991
+    second: RedShirtWithHands_10
+  - first:
+      213: -2737552910925233964
+    second: RedShirtWithHands_11
+  - first:
+      213: -8862497578089563613
+    second: RedShirtWithHands_12
+  - first:
+      213: 6113579822863980918
+    second: RedShirtWithHands_13
+  - first:
+      213: 3998207928358748068
+    second: RedShirtWithHands_14
+  - first:
+      213: 6256235452909651000
+    second: RedShirtWithHands_15
+  - first:
+      213: -1429691481188374902
+    second: RedShirtWithHands 1_0
+  - first:
+      213: 2300091180929803502
+    second: RedShirtWithHands 1_1
+  - first:
+      213: -3370632131828668266
+    second: RedShirtWithHands 1_2
+  - first:
+      213: -7063215648973013990
+    second: RedShirtWithHands 1_3
+  - first:
+      213: 7378256665212007772
+    second: RedShirtWithHands 1_4
+  - first:
+      213: -8413108489227596432
+    second: RedShirtWithHands 1_5
+  - first:
+      213: -3964657370359661495
+    second: RedShirtWithHands 1_6
+  - first:
+      213: -6723356114262689461
+    second: RedShirtWithHands 1_7
+  - first:
+      213: 6956566148092349806
+    second: RedShirtWithHands 1_8
+  - first:
+      213: -9005211288081104367
+    second: RedShirtWithHands 1_9
+  - first:
+      213: -2489401104084199616
+    second: RedShirtWithHands 1_10
+  - first:
+      213: -4332757330495593614
+    second: RedShirtWithHands 1_11
+  - first:
+      213: -9205432990469456543
+    second: RedShirtWithHands 1_12
+  - first:
+      213: 1723953611167214078
+    second: RedShirtWithHands 1_13
+  - first:
+      213: 1993787603605721625
+    second: RedShirtWithHands 1_14
+  - first:
+      213: -3223538474009157616
+    second: RedShirtWithHands 1_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 203
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a866d553c27b82ce0800000000000000
+      internalID: -1429691481188374902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 202
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee4645e1eb09bef10800000000000000
+      internalID: 2300091180929803502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 203
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 698a5d93feb1931d0800000000000000
+      internalID: -3370632131828668266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_3
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 202
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1cbbfe2aca6afd90800000000000000
+      internalID: -7063215648973013990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_4
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 138
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c55be976855d46660800000000000000
+      internalID: 7378256665212007772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_5
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 137
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07d04c25762ae3b80800000000000000
+      internalID: -8413108489227596432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_6
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 138
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94cf3979025baf8c0800000000000000
+      internalID: -3964657370359661495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_7
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 137
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b49fbe66c37d1b2a0800000000000000
+      internalID: -6723356114262689461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 74
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d4d81ed00ba8060800000000000000
+      internalID: 6956566148092349806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_9
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 73
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 112869e8b00170380800000000000000
+      internalID: -9005211288081104367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_10
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 74
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 047989f92eed37dd0800000000000000
+      internalID: -2489401104084199616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_11
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 73
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27327d1f924fed3c0800000000000000
+      internalID: -4332757330495593614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_12
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 11
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16df767b77bbf3080800000000000000
+      internalID: -9205432990469456543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 10
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef9afdaeca6bce710800000000000000
+      internalID: 1723953611167214078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_14
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 11
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9121f7e034b5bab10800000000000000
+      internalID: 1993787603605721625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedShirtWithHands 1_15
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 10
+        width: 19
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01021e046d0b343d0800000000000000
+      internalID: -3223538474009157616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
